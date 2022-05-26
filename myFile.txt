@@ -1,14 +1,2 @@
 파일 생성하여 push하기 
 파일을 pull하여보자 
-issue1 branch에서 Data추가 
-Local Fetch Test
-Remote Fetch Test 
-
-Remote Fetch Test2 
-Local Fetch Test2
-
-Local Fetch Test3
-Remote Fetch Test3
-
-Local Fetch Test4
-Remote Fetch Test4
