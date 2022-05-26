@@ -1,3 +1,4 @@
 파일 생성하여 push하기 
 파일을 pull하여보자 
 issue1 branch에서 Data추가 
+원격 저장소에서 파일내용을 변경함 
