@@ -7,8 +7,8 @@ Remote Fetch Test
 Remote Fetch Test2 
 Local Fetch Test2
 
-<<<<<<< HEAD
 Local Fetch Test3
-=======
 Remote Fetch Test3
->>>>>>> origin/issue1
+
+Local Fetch Test4
+
